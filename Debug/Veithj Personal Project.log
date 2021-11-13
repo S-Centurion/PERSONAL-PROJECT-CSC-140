@@ -1,0 +1,5 @@
+﻿  Veithj Personal Project.cpp
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(37,20): warning C4018: '<': signed/unsigned mismatch
+  Veithj Personal Project.vcxproj -> C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Debug\Veithj Personal Project.exe
