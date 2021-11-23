@@ -152,7 +152,19 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ActOne.h" />
+    <ClInclude Include="AOneCmdData.h" />
+    <ClInclude Include="BOneCmdData.h" />
+    <ClInclude Include="COneCmdData.h" />
+    <ClInclude Include="DOneCmdData.h" />
+    <ClInclude Include="EOneCmdData.h" />
+    <ClInclude Include="FOneCmdData.h" />
+    <ClInclude Include="GOneCmdData.h" />
+    <ClInclude Include="HOneCmdData.h" />
+    <ClInclude Include="IOneCmdData.h" />
+    <ClInclude Include="TestCmdData.h" />
     <ClInclude Include="ConsoleColor.h" />
+    <ClInclude Include="DataAccessor.h" />
+    <ClInclude Include="General.h" />
     <ClInclude Include="Inventory.h" />
     <ClInclude Include="Start.h" />
     <ClInclude Include="Test.h" />
