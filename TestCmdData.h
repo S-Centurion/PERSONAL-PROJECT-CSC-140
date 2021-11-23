@@ -9,7 +9,7 @@ string def1(string input)
 
 	if (compareStr(num, "1"))
 	{
-		//if (compareStr(object, "body")) { string body = "yeah thats a body LOL"; return body; }
+		//if (compareStr(object, "body")) { string body = "yeah thats a body"; return body; }
 		//else if (compareStr(object, "pear")) { string pear = "This is NOT an apple."; return pear; }
 		return "\n\nNothing to investigate...";
 	}
