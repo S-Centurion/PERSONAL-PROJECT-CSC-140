@@ -1,10 +1,12 @@
-#include <iostream>
+//#include <iostream>
 #include <windows.h>
 #include <mmsystem.h>
-#include <vector>
-#include <string>
+#include "Inventory.h"
 
 using namespace std;
+
+
+const int BREAK_VL = 6000, BREAK_S = 2500, BREAK_VS = 1250, BREAK_L = 4000;
 
 void sDisp(string word)
 {
@@ -42,12 +44,82 @@ void disp(string word)
 
 }
 
-void press()
+/*
+void talk(string person)
 {
-	string str;
-	fDisp("Press any key and enter to continue....");
-	getline(cin, str);
+	//compareStr("hello", "hello");
 }
+
+void goBack()
+{
+
+}
+
+int command(string option)
+{
+	//may have to move this declaration
+	Inv inventory;
+	string invItem, item, person, object;
+	int n = 3;
+	int choice = 0;
+
+	n = cmdNum(option);
+
+
+
+	
+	switch (n)
+	{
+	case 1:
+		inventory.useItem(invItem, item);
+		choice = 1;
+		return choice;
+	case 2:
+		inventory.viewAll();
+		choice = 2;
+		return choice;
+	case 3:
+		//talk(person);
+		//choice = 3;
+		cout << "YAY!";
+		return choice;
+	case 4:
+		goBack();
+		choice = 4;
+		return choice;
+	default:
+		cout << choice << " is an invalid choice.\n";
+	}
+	
+}
+*/
+
+/*
+cout << "\n\tMain Menu\n\n";
+		cout << "1.\tAdd Data to File\n";
+		cout << "2.\tView Data in File\n";
+		cout << "3.\tExit\n";
+
+		cin >> choice;
+		getchar();//absorb carraige return
+
+		switch (choice)
+		{
+		case 1:
+			addData();
+			break;
+		case 2:
+			viewData();
+			break;
+		case 3:
+			break;
+		default:
+			cout << choice << " is an invalid choice.\n";
+		}
+	}
+*/
+
+
 
 /* void display(string sentence)
 {
