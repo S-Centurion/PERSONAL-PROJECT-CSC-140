@@ -31,7 +31,7 @@ int main()
     //PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
     //Intro();
 
-    //PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
+    PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
     //OpeningNarration();
     //ConversationWithLieu();
 
