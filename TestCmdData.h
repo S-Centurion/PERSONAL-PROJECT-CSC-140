@@ -29,8 +29,8 @@ string def2(string input)
 
 	if (compareStr(num, "1"))
 	{
-		//if (compareStr(object, "door")) { string door = "yeah thats a door LOL"; return door; }
-		if (compareStr(object, "body")) { string body = "yeah thats a body LOL"; return body; }
+		//if (compareStr(object, "door")) { string door = "yeah thats a door"; return door; }
+		if (compareStr(object, "body")) { string body = "yeah thats a body"; return body; }
 		else if (compareStr(object, "pear")) { string pear = "This is NOT an apple."; return pear; }
 		else return "\n\nNothing to investigate...";
 	}
@@ -50,7 +50,7 @@ string def3(string input)
 
 	if (compareStr(num, "1"))
 	{
-		if (compareStr(object, "door")) { string door = "yeah thats a door LOL"; return door; }
+		if (compareStr(object, "door")) { string door = "yeah thats a door"; return door; }
 		//else if (compareStr(object, "pear")) { string pear = "This is NOT an apple."; return pear; }
 		else return "\n\nNothing to investigate...";
 	}
