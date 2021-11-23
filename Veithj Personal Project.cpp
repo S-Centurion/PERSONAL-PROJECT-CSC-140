@@ -23,20 +23,20 @@ using namespace std;
 
 int main()
 {
-    PlaySound(TEXT("End Titles.wav"), NULL, SND_ASYNC);
-    Title();
+    //PlaySound(TEXT("End Titles.wav"), NULL, SND_ASYNC);
+    //Title();
 
-    help();
+    //help();
 
-    PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
-    Intro();
+    //PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
+    //Intro();
 
-    PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
-    OpeningNarration();
-    ConversationWithLieu();
+    //PlaySound(TEXT("Blade Runner Blues.wav"), NULL, SND_ASYNC);
+    //OpeningNarration();
+    //ConversationWithLieu();
 
     //test();
-    //testScene1();
+    testScene1();
 }
 
 
