@@ -113,7 +113,7 @@ void testScene1()
 
 		while (frame == 1)
 		{
-			cout << "You are relaxing in your space car. \n\n Your space phone suddenly rings.\n\n";
+			cout << "You are relaxing in your car. \n\n Your phone suddenly rings.\n\n";
 			cout << ">";
 
 			getcmdline(frame, d);
@@ -125,14 +125,14 @@ void testScene1()
 		{
 			int choice;
 
-			cout << "You walk into a large room. \n\n There's a sp00ky body on the floor AND a pear.\n\n Investigate?\n\n";
+			cout << "You walk into a large room. \n\n There's a body on the floor AND a pear.\n\n Investigate?\n\n";
 			cout << ">";
 
 			choice = getcmdline(frame, "Peter_Capaldi");
 
 			if (choice == 1)
 			{
-				cout << "\n\nyeaboi";
+				cout << "\n\npassed";
 
 				frame = 3;
 			}
