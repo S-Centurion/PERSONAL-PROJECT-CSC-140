@@ -1,0 +1,11 @@
+﻿  Veithj Personal Project.cpp
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Text.h(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Inventory.h(76,48): warning C4552: '!': result of expression not used
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Inventory.h(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\General.h(67,6): warning C4101: 'choice': unreferenced local variable
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\AOneCmdData.h(104,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\AOneCmdData.h(148,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\ActOne.h(768,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Veithj Personal Project.vcxproj -> C:\Users\johnn\Documents\OTC Classes\2021 - FALL\C++ Programming\Personal Project General\Veithj Personal Project\Debug\Veithj Personal Project.exe
