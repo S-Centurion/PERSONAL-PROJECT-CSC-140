@@ -1,0 +1,12 @@
+Spectacles - Special visors made to look like an ordinary pair of glasses. 
+Can enhance sight and be used to look through an array of light frequencies.
+
+Com - Small chunky tablet. Used to communicate with anyone, anywhere. 
+
+Pistol - Small standard-issue blaster. Infinite plasma ammo.
+
+Scanner - Can analyze anything utilizing a collection of onboard sensors 
+including thermometer, scale, accelerometer, etc.
+
+Gloves - Latex gloves designed to keep your hands clean as well as your
+surroundings.
